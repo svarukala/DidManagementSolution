@@ -1,0 +1,8 @@
+{
+    "TenantId": "be195bd3-6841-4987-b07d-9d7d95a5dcf7",
+    "GroupId": "bbc53596-af95-4768-b9af-5e7c06e6bfea",
+    "MSListName": "Teams Phone Numbers",
+    "ResourceGroupName": "tpa-rg-002",
+    "AutomationAccountName": "tpa-auto-acct-002",
+    "AzLocation": "East US"
+}
